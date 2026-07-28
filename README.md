@@ -24,7 +24,7 @@ Working through NetPractice helped me develop a much stronger understanding of:
 
 One of the most important concepts that clicked for me was understanding how IP addresses allow devices and routers to determine where packets should be delivered. Once I understood how subnet masks separate the network portion from the host portion of an address, it became much easier to determine which devices could communicate directly and when a router was required.
 
-The most challenging part of the project was understanding subnet masks and subnetting—especially learning how to divide networks into smaller subnets and determine which IP addresses were valid within each subnet. These concepts became much clearer after solving many different scenarios and understanding *why* a particular configuration worked instead of simply memorizing the answers.
+The most challenging part of the project was understanding subnet masks and subnetting and especially learning how to divide networks into smaller subnets and determine which IP addresses were valid within each subnet. These concepts became much clearer after solving many different scenarios and understanding *why* a particular configuration worked instead of simply memorizing the answers.
 
 ---
 
@@ -82,7 +82,7 @@ Take your time with each level.
 
 It is easy to become overwhelmed by trying to understand every networking concept at once. Instead, focus on one question at a time. If something doesn't make sense, ask yourself the first question that comes to mind and answer that before moving on.
 
-Networking concepts build upon one another. Once you understand a single idea—such as subnet masks or how routers forward packets—the later levels become much easier.
+Networking concepts build upon one another. Once you understand a single idea, such as subnet masks or how routers forward packets, the later levels become much easier.
 
 Most importantly, keep practicing. Repetition is what makes the concepts stick.
 
