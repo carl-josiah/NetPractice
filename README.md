@@ -32,7 +32,7 @@ The most challenging part of the project was understanding subnet masks and subn
 
 ### Running NetPractice
 
-From the project directory, launch the training interface using:
+From the downloadable file (net_practice.1.9.tgz), launch the training interface using:
 
 ```bash
 ./run.sh
@@ -61,7 +61,6 @@ Example repository structure:
 ```text
 .
 ├── README.md
-├── run.sh
 ├── level1.json
 ├── level2.json
 ├── level3.json
